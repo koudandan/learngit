@@ -1,0 +1,60 @@
+渠道服务器：10.5.6.2    10.5.6.3    （查日志路径： /app/java/channel-apache-tomcat-7.0.12-NODE-A/logs/     /app/java/channel-apache-tomcat-7.0.12-NODE-B/logs/）
+   			   						   			   
+timer工程： 10.6.6.27   	（查日志路径：cd /app/jboss/timer-apache-tomcat-7.0.12/logs/）
+	  
+电子保单系统： 10.6.20.6    （查日志路径：cd /app/java/epps-apache-tomcat-7.0.12-NODE-A/logs/	  cd /app/java/epps-apache-tomcat-7.0.12-NODE-B/logs/）		
+										  									
+渠道order服务器:10.6.18.18   10.6.18.19	 （查日志路径：cd /app/java/order/dubbo-order-provider-epartner-b2c(deploy)/logs）
+				
+				
+非车规则服务器：10.6.6.23  10.6.6.24  （查日志路径：cd /app/java/rules-apache-tomcat-7.0.12/logs）
+
+非车核心服务器：10.6.6.6    10.6.6.7  （查日志路径：cd /app/java/pcis-apache-tomcat-7.0.12/logs）
+
+非见费出单dubbo服务器：10.6.18.117  10.6.18.177    （查日志路径:cd /app/java/dubbo_pcis/dubbo-noSeeMoneySave-provider-pcis(deploy)/logs)
+非见费出单dubbo服务器：10.6.18.117  10.6.18.177   （查日志路径:cd /app/java/dubbo_pcis/dubbo-noSeeMoneySubmit-provider-plcis(deploy)/logs)
+
+核保服务系统:10.6.18.4		10.6.18.5	（查日志路径: cd /app/java/dubbo-cr-provider-pcis(MySql)/logs)
+核保服务系统:10.6.18.34		10.6.18.35	（查日志路径: cd /app/java/dubbo-crNew-provider-pcis(MySql)/logs)
+
+承保服务系统:10.6.18.6		10.6.18.7    （查日志路径: cd /app/java/dubbo-cp-provider-pcis(MySql)/logs)
+承保服务系统:10.6.18.36		10.6.18.37    （查日志路径: cd /app/java/dubbo-cpNew-provider-pcis(deploy)/logs)
+
+保单相关业务查询服务系统:10.6.18.10  10.6.18.12		（查日志路径: cd /app/java/dubbo-edrCustomer-provider-pcis/logs)
+
+非车承保:10.6.18.166/10.6.18.238/10.6.18.76/10.6.18.241 （查日志路径: cd /app/java/dubbo/dubbo-rp-provider-pcis(MySql)/logs 
+
+非车承保批改:10.6.18.166	10.6.18.238			（查日志路径: cd /app/java/dubbo/dubbo-edrAddNamtCP-provider-pcis/logs)
+非车核保批改:10.6.18.166	10.6.18.238			（查日志路径: cd /app/java/dubbo/dubbo-edrAddNamtCR-provider-pcis/logs)
+
+全单退保接口系统:10.6.18.26  10.6.18.27（查日志路径: cd   /app/java/pcis/dubbo-edrEndorse-provider-pcis(MySql)up/logs)
+				
+重复投保校验接口系统:10.6.18.30  10.6.18.31		（查日志路径: cd /app/java/pcis/dubbo-repeatCheck-provider-pcis/logs)
+
+
+
+
+
+														
+
+
+
+
+
+
+											
+											
+
+															
+															
+
+
+
+
+
+
+
+
+
+
+
